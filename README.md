@@ -2,7 +2,7 @@
 
 A modern PHP SDK for the [Hostaway API](https://api.hostaway.com/documentation), designed to simplify integration with Hostaway’s property management system — including reservations, listings, messages, guests, and more.
  
----
+--- 
 
 ## 🚀 Features
 
