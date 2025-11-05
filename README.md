@@ -13,7 +13,7 @@ A modern PHP SDK for the [Hostaway API](https://api.hostaway.com/documentation),
 - PSR-4 compliant and publishable config 
 
 ---
-
+ 
 ## 📦 Installation
 
 Install the package via Composer:
