@@ -12,7 +12,7 @@ A modern PHP SDK for the [Hostaway API](https://api.hostaway.com/documentation),
 - Pest-powered testing   
 - PSR-4 compliant and publishable config 
 
----
+--- 
  
 ## 📦 Installation
 
